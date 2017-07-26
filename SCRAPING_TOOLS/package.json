@@ -1,0 +1,17 @@
+{
+  "name": "emojione-rip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "download": "^6.2.5",
+    "gm": "^1.23.0"
+  }
+}
